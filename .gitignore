@@ -1,0 +1,5 @@
+/.classpath
+/.project
+/dashboard.iml
+# dependencies
+node_modules
