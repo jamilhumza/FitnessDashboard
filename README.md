@@ -6,6 +6,7 @@ This is a fitness dashboard that allows users to track personal fitness informat
 
 ## Preview
 ![](src/dashboardmain.jpg)
+![](src/dashboardform.jpg)
 ## Technologies
 - React
 - Spring Boot
